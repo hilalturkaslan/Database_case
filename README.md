@@ -1,1 +1,1 @@
-Database for ai case study
+Database for data case study
