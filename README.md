@@ -1,1 +1,1 @@
-Database app is a for data sample case study
+Database app is a for done data sample case study
