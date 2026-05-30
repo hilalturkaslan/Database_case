@@ -1,1 +1,1 @@
-Database app is for make done database case study
+Database application is for make done database case study
